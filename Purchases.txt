@@ -1,0 +1,10 @@
+Cotton 200 5
+Mavi 400 4
+Uludag 150 0
+Tadim 45 0
+USPA 200 5
+ZARA 400 4
+H&M 150 0
+Sarar 45 0
+LC 300 6
+Cagdas 100 0
